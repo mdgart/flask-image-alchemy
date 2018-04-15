@@ -9,7 +9,7 @@ from setuptools import setup
 setup(
     name='Flask-ImageAlchemy',
     version='0.0.7',
-    url='https://github.com/rstit/flask-image-alchemy',
+    url='https://github.com/mdgart/flask-image-alchemy',
     license='BSD',
     author='RST-IT',
     author_email='piotr.poteralski@rst-it.com',
